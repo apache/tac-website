@@ -1,0 +1,13 @@
+github:
+  description: "Website sources for the Travel Assistance Committee"
+  homepage: https://tac.apache.org
+  labels:
+    - asf
+    - travel
+    - tac
+    - hugo
+
+notifications:
+  commits:      commits@tac.apache.org
+  issues:       commits@tac.apache.org
+  pullrequests: commits@tac.apache.org
