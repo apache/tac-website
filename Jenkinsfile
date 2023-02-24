@@ -71,6 +71,7 @@ pipeline {
                 script {
                     // Checkout branch with generated content
                     sh """
+                        git fetch
                         git checkout ${DEPLOY_BRANCH}
                         git pull origin ${DEPLOY_BRANCH}
                     """
