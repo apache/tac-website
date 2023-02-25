@@ -3,18 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tac.apache.org/stories.html</loc>
-    <lastmod>2023-02-25T12:23:31+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tac.apache.org/</loc>
     <lastmod>2023-02-24T11:57:33+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tac.apache.org/stories/__index.html</loc>
-    <lastmod>2023-02-25T12:23:31+01:00</lastmod>
+    <loc>https://tac.apache.org/stories/</loc>
+    <lastmod>2023-02-25T17:13:23+01:00</lastmod>
   </url>
   
 </urlset>
