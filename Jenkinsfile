@@ -106,7 +106,7 @@ pipeline {
                 script {
                     // Checkout branch with generated content
                     sh """
-                        git checkout ${DEPLOY_BRANCH}
+                        git checkout -b ${DEPLOY_BRANCH} --track origin/${DEPLOY_BRANCH}
                         git pull origin ${DEPLOY_BRANCH}
                     """
                     
