@@ -23,8 +23,9 @@ pipeline {
     }
    
     environment {
-        HUGO_VERSION = '0.63.2'
+        HUGO_VERSION = '0.66.0'
         DEPLOY_BRANCH = 'asf-site'
+        STAGING_BRANCH = 'asf-staging'
     }
 
     stages {
@@ -61,6 +62,40 @@ pipeline {
                 }
             }
         }
+        stage('Staging') {
+            when {
+                 not {
+                     branch 'main'
+                 } 
+            }
+            steps {
+                script {
+                    // Checkout branch with generated content
+                    sh """
+                        git checkout ${STAGING_BRANCH}
+                        git pull origin ${STAGING_BRANCH}
+                    """
+                    
+                    // Remove the content of the target branch and replace it with the content of the temp folder
+                    sh """
+                        rm -rf ${WORKSPACE}/content
+                        git rm -r --cached content/*
+                        mkdir -p ${WORKSPACE}/content
+                        cp -rT ${env.TMP_DIR}/* ${WORKSPACE}/content
+                    """
+                    
+                    // Commit the changes to the target branch
+                    env.COMMIT_MESSAGE = "Staged site from ${BRANCH_NAME} (${env.LAST_SHA})"
+                    sh """
+                        git add -A
+                        git commit -m "${env.COMMIT_MESSAGE}" | true
+                    """
+                    
+                    // Push the generated content for deployment
+                    sh "git push -u origin ${STAGING_BRANCH}"
+                }
+            }
+        }
         stage('Deploy') {
             when {
                 anyOf {
@@ -71,7 +106,6 @@ pipeline {
                 script {
                     // Checkout branch with generated content
                     sh """
-                        git fetch
                         git checkout ${DEPLOY_BRANCH}
                         git pull origin ${DEPLOY_BRANCH}
                     """
@@ -85,7 +119,7 @@ pipeline {
                     """
                     
                     // Commit the changes to the target branch
-                    env.COMMIT_MESSAGE = "Updated ${DEPLOY_BRANCH} from ${BRANCH_NAME} at ${env.LAST_SHA} using ${BUILD_URL}"
+                    env.COMMIT_MESSAGE = "Updated site from ${BRANCH_NAME} (${env.LAST_SHA})"
                     sh """
                         git add -A
                         git commit -m "${env.COMMIT_MESSAGE}" | true
