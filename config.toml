@@ -6,7 +6,7 @@ contentDir = "source"
 publishDir = "target/content"
 
 disablePathToLower = true
-uglyURLs = true
+# uglyURLs = true # disable ugly
 enableRobotsTXT = true
 disableBrowserError = true
 timeout = 3000
