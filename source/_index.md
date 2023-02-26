@@ -1,5 +1,6 @@
 ---
 title: Travel Assistance Committee - TAC
+slug: index
 ---
 
 <div class="jumbotron">
@@ -57,32 +58,5 @@ We've put together stories from past TAC recipients of their experiences with TA
         <h4>Who are TAC?</h4>
         <p>Please see our official committee listing.</p>
           </div>
-          <div class="col-md-auto">
-          <h4>Past Events</h4>
-          <p>Participants attending the following events have received support from the Travel Assistance Committee:
-
-    Fosdem 2020, Brussels, Belgium
-    ApacheCon EU 2019, Berlin, Germany
-    ApacheCon NA 2019, Las Vegas, Nevada
-    ApacheCon NA 2018, Montreal, Canada
-    ApacheCon NA 2017, Miami, Florida
-    ApacheCon EU 2016, Seville, Spain
-    ApacheCon NA 2016, Vancouver, Canada
-    ApacheCon EU 2015, Budapest, Hungary
-    ApacheCon NA 2015, Austin, Taxes
-    ApacheCon EU 2014, Budapest, Hungary
-    ApacheCon NA 2014, Denver Colorado
-    ApacheCon NA 2013, Portland Oregon
-    ApacheCon Europe 2012, Sinsheim, Germany
-    ApacheCon NA 2011, Vancouver
-    Apache Retreat Ireland 2011
-    ApacheCon NA 2010, Atlanta
-    Apache Retreat Hursley 2010
-    Apache Retreat Ireland 2010
-    ApacheCon US 2009 Oakland
-    ApacheCon EU 2009 Amsterdam
-    ApacheCon US 2008 New Orleans
-</p>
-    </div>
 </div>
 
