@@ -19,25 +19,17 @@ Note, read this entire page BEFORE applying for assistance.
 
 <!-- Row 1 -->
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-auto">
         <h4>Application Criteria</h4>
         <p>The Committee judges applications on merit, based on details each applicant provides on their application form. The application form captures the information the Committee requires to be able to make such a judgment. Bear in mind that, due to the Committee's limited resources, it must apply its criteria aggressively. Just because someone does not receive assistance on this occasion does not mean that they are not worthy of assistance, or that the Committee does not value their contribution to the ASF or to open source in general. We would love to be able to offer support more widely, but, as always, the Committee is limited in its work by the funds available.
 
 The Committee will notify those it deems to be most in need of assistance within a week of the closing of the application period.</p>
-    </div>
-    <div class="col-md-4">
         <h4>What the assistance covers</h4>
         <p>The Committee provides assistance with travel (air fares or train tickets), accommodation during the conference, and conference fees. At this time, the Committee is unable to provide any funds for general living expenses during the conference.</p>
-    </div>
-    <div class="col-md-4">
         <h4>Arrangements and planning for successful applicants</h4>
         <p>The Committee, and the ASF itself, do not have the means to distribute funds for air fares, etc, to successful applicants, who will undoubtedly be located worldwide. Therefore, the ASF and its appointed agents will arrange and pay directly for travel and accommodation for successful applicants.</p>
     </div>
-</div>
-
-<!-- Row 2 -->
-<div class="row">
-    <div class="col-md-4">
+    <div class="col-md-auto">
         <h4>How to apply</h4>
         <p>Visit the online application and , if you have not already done so, create an account by clicking the 'Register' link - or if you are an ASF Committer just login using your LDAP creds via oauth. Once logged in answer all questions as fully as possible. Note that you do not need to answer all questions in the same session: you can keep coming back until you have completed the form.
 
@@ -52,8 +44,8 @@ Note that, in return for financial assistance, we do ask that you perform some d
 Also note that participants we support must themselves obtain Travel Insurance (including Medical coverage for those traveling overseas).
 
 To apply, complete the on line application.</p>
-    </div>
-    <div class="col-md-4">
+        </div>
+        <div class="col-md-auto">
         <h4>Events for which support is available</h4>
         <p>Applications are now open for assistance to ApacheCon NA New Orleans which is on between the 3rd and 6th of October 2022. Closing date for Applications for Travel Assistance to this event has been extended to 8th July 2022.
 
@@ -62,22 +54,16 @@ Travel Assistance includes travel to the event, via plane,train etc; and optiona
 Applications are open to anyone involved in open source , not just at the Apache Software Foundation, but anywhere. If you are unsure if you want to apply - we encourage you to read the Stories from past recipients as mentioned below!
 
 Good luck and hope to see you in New Orleans!</p>
-    </div>
-    <div class="col-md-4">
+          </div>
+          <div class="col-md-auto">
           <h4>Stories from past TAC recipients</h4>
           <p>Are you thinking of applying for TAC funding, but wondering how it works? Wondering how it might apply for someone like yourself? Wondering if it might be relevant? Curious to know how others found the experience?
 
 We've put together stories from past TAC recipients of their experiences with TAC and with ApacheCon itself. You can view these on the TAC Stories pages. We're grouped them by project area, applicant background and the like. Take a look around!</p>
-    </div>
-</div>
-
-<!-- Row 3 -->
-<div class="row">
-    <div class="col-md-4">
         <h4>Who are TAC?</h4>
         <p>Please see our official committee listing.</p>
-    </div>
-    <div class="col-md-4">
+          </div>
+          <div class="col-md-auto">
           <h4>Past Events</h4>
           <p>Participants attending the following events have received support from the Travel Assistance Committee:
 
