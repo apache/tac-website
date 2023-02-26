@@ -47,13 +47,7 @@ To apply, complete the on line application.</p>
         </div>
         <div class="col-md-auto">
         <h4>Events for which support is available</h4>
-        <p>Applications are now open for assistance to ApacheCon NA New Orleans which is on between the 3rd and 6th of October 2022. Closing date for Applications for Travel Assistance to this event has been extended to 8th July 2022.
-
-Travel Assistance includes travel to the event, via plane,train etc; and optionally includes if needed the cost of Hotel accomodation and also Conference tickets.
-
-Applications are open to anyone involved in open source , not just at the Apache Software Foundation, but anywhere. If you are unsure if you want to apply - we encourage you to read the Stories from past recipients as mentioned below!
-
-Good luck and hope to see you in New Orleans!</p>
+          <p>There are currently no events being supported by TAC, please check back regularly for updates</p>
           </div>
           <div class="col-md-auto">
           <h4>Stories from past TAC recipients</h4>

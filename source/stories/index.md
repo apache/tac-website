@@ -13,8 +13,9 @@ title: Travel Assistance Committee - TAC
 
 <!-- Row 1 -->
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-auto">
         <h4>Stories from previous successful applicants</h4>
+          <p>Stories coming soon!</p>
     </div>
 </div>
 
