@@ -1,5 +1,5 @@
-# tac-website
+# tac website staging
 
-This repository builds the TAC website
-How to build locally using Hugo coming soon.
+The asf-staging branch is only used for storing the generated static website for previewing proposed changes to the website.
 
+The preview site is at https://tac.staged.apache.org
