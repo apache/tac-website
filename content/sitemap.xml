@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tac.apache.org/about.html</loc>
+    <lastmod>2023-02-27T11:14:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/events.html</loc>
+    <lastmod>2023-02-26T19:35:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories.html</loc>
+    <lastmod>2023-02-26T19:35:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/</loc>
+    <lastmod>2023-02-26T19:35:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/about/</loc>
+    <lastmod>2023-02-27T11:14:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/events/</loc>
+    <lastmod>2023-02-26T19:35:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/events/current.html</loc>
+    <lastmod>2023-02-26T19:35:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/events/previous.html</loc>
+    <lastmod>2023-02-26T19:35:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/</loc>
+    <lastmod>2023-02-26T19:35:02+01:00</lastmod>
+  </url>
+  
+</urlset>
