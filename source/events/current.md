@@ -24,8 +24,8 @@ title: Travel Assistance Committee - TAC
           <p> Places are limited and will be awarded to those that are deemed most in need of assistance. Applicants will need to
               already have a Visa or live in an EU Schengen Country that does not therefore require a Visa. No applications from 
               outside the EU will be concidered for this event.<p>
-        <p> Go to <a ref="https://tac-apply.apache.org">our application form</a> and apply as soon as possible. The deadline for 
-            applications is April 15thc 2023.</p>
+        <p> Go to <a href='https://tac-apply.apache.org'>our application form</a> and apply as soon as possible. The deadline for 
+            applications is April 15th 2023.</p>
     </div>
 </div>
 
