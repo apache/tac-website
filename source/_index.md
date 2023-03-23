@@ -48,7 +48,7 @@ To apply, complete the on line application.</p>
         </div>
         <div class="col-md-auto">
         <h4>Events for which support is available</h4>
-            <p>Berlin Buzzwords 2023 - see our <a href='/events/current.html' events page</a> for more details.</p>
+            <p>Berlin Buzzwords 2023 - see our <a href='/events/current.html'>events page</a> for more details.</p>
           </div>
           <div class="col-md-auto">
           <h4>Stories from past TAC recipients</h4>
