@@ -3,13 +3,143 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tac.apache.org/stories/big_data.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/build_systems.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/cloud.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/content.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/http.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/andriy_redko.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/bhargav_golla.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/dammina_sahabandu.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/gabriel_brascher.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/gaurav_saini.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/ignasi_barrera.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/jeff_genender.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/keren_ouaknine.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/maxim_solodovnik.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/nitin_kumar.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/pedro_giffuni.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/piotr_zarzycki.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/rafael_weingartner.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/sharan_foga.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/interviews/yash_sharma.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/iot.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/nosql_databases.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/students.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/web_framework.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/women.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tac.apache.org/events.html</loc>
     <lastmod>2023-03-23T12:10:27+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://tac.apache.org/stories.html</loc>
-    <lastmod>2023-02-26T19:35:02+01:00</lastmod>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tac.apache.org/stories/</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
   </url>
   
   <url>
@@ -33,8 +163,8 @@
   </url>
   
   <url>
-    <loc>https://tac.apache.org/stories/</loc>
-    <lastmod>2023-02-26T19:35:02+01:00</lastmod>
+    <loc>https://tac.apache.org/index_old.html</loc>
+    <lastmod>2023-03-24T17:57:58+00:00</lastmod>
   </url>
   
 </urlset>
