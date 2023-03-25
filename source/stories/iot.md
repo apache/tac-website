@@ -1,8 +1,3 @@
-Title:     IoT (Internet of Things) stories from past ApacheCon Travel Assistance Recipients
-license: https://www.apache.org/licenses/LICENSE-2.0
-
-<style type="text/css">strong  { color: #303284; font-size: 140%; }</style>
-
 # IoT (Internet of Things) stories from past Travel Assistance Recipients {#iot-internet-of-things-stories-for-past-travel-assistance-recipients}
 
 This is part of our series of stories from past ApacheCon and

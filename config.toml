@@ -12,7 +12,9 @@ disableBrowserError = true
 timeout = 3000
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
-ignoreFiles = [ ] # No files to ignore
+
+# The individual interview source files are included under stories
+ignoreFiles = ['/interviews/']
 
 # Highlighting config. See https://help.farbox.com/pygments.html
 pygmentsCodeFences = true

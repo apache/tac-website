@@ -1,8 +1,3 @@
-Title:     NoSQL and Database stories from past ApacheCon Travel Assistance Recipients
-license: https://www.apache.org/licenses/LICENSE-2.0
-
-<style type="text/css">strong  { color: #303284; font-size: 140%; }</style>
-
 # NoSQL and Datbase stories from past Travel Assistance Recipients {#nosql-and-datbase-stories-for-past-travel-assistance-recipients}
 
 This is part of our series of stories from past ApacheCon and
