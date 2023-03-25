@@ -1,6 +1,3 @@
-Title:     Content stories from past Travel Assistance Recipients
-license: https://www.apache.org/licenses/LICENSE-2.0
-
 # Content System stories from past Travel Assistance Recipients {#content-system-stories-for-past-travel-assistance-recipients}
 
 This is part of our series of stories from past ApacheCon and

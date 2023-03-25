@@ -1,8 +1,3 @@
-Title:     Web Framework stories from past ApacheCon Travel Assistance Recipients
-license: https://www.apache.org/licenses/LICENSE-2.0
-
-<style type="text/css">strong  { color: #303284; font-size: 140%; }</style>
-
 # Web Framework stories from past Travel Assistance Recipients {#web-framework-stories-for-past-travel-assistance-recipients}
 
 This is part of our series of stories from past ApacheCon and
