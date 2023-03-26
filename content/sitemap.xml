@@ -1,95 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://tac.apache.org/stories/big_data.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories/build_systems.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories/cloud.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories/content.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories/http.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories/iot.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories/nosql_databases.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories/students.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories/web_framework.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories/women.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/events.html</loc>
     <lastmod>2023-03-23T12:10:27+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories.html</loc>
     <lastmod>2023-03-25T00:28:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/stories/</loc>
     <lastmod>2023-03-24T17:57:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/</loc>
     <lastmod>2023-03-25T13:23:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/events/</loc>
     <lastmod>2023-02-26T19:35:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/events/current.html</loc>
     <lastmod>2023-03-23T12:10:27+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/events/previous.html</loc>
     <lastmod>2023-02-26T19:35:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tac.apache.org/index_old.html</loc>
     <lastmod>2023-03-24T17:57:58+00:00</lastmod>
   </url>
-  
 </urlset>

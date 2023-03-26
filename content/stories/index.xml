@@ -5,20 +5,17 @@
     <link>https://tac.apache.org/stories.html</link>
     <description>Recent content in Stories on ASF TAC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://tac.apache.org/stories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://tac.apache.org/stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://tac.apache.org/stories/big_data.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/big_data.html</guid>
-      <description>Big Data stories from past Travel Assistance Recipients This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
- Keren Ouaknine Yash Sharma Jeff Genender   Keren Ouaknine What&amp;rsquo;s your name?
-Keren Ouaknine</description>
+      <description>Big Data stories from past Travel Assistance Recipients &amp;para; This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
+Keren Ouaknine Yash Sharma Jeff Genender Keren Ouaknine &amp;para; What&amp;rsquo;s your name?
+Keren Ouaknine
+Which ApacheCon/Apache event did you attend?</description>
     </item>
     
     <item>
@@ -27,8 +24,8 @@ Keren Ouaknine</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/build_systems.html</guid>
-      <description>Build System stories from past Travel Assistance Recipients This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
- Dammina Sahabandu   Dammina Sahabandu What&amp;rsquo;s your name?
+      <description>Build System stories from past Travel Assistance Recipients &amp;para; This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
+Dammina Sahabandu Dammina Sahabandu &amp;para; What&amp;rsquo;s your name?
 Dammina
 What Apache project are you involved in?</description>
     </item>
@@ -39,8 +36,8 @@ What Apache project are you involved in?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/cloud.html</guid>
-      <description>Cloud stories from past Travel Assistance Recipients This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
- Rafael Weingärtner Nitin Kumar Maharana Ignasi Barrera Gabriel Beims Bräscher Jeff Genender   Rafael Weingärtner What&amp;rsquo;s your name?</description>
+      <description>Cloud stories from past Travel Assistance Recipients &amp;para; This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
+Rafael Weingärtner Nitin Kumar Maharana Ignasi Barrera Gabriel Beims Bräscher Jeff Genender Rafael Weingärtner &amp;para; What&amp;rsquo;s your name?</description>
     </item>
     
     <item>
@@ -49,8 +46,8 @@ What Apache project are you involved in?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/content.html</guid>
-      <description>Content System stories from past Travel Assistance Recipients This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
- Maxim Solodovnik Piotr Zarzycki Gaurav Saini Sharan Foga Jeff Genender Pedro Giffuni Bhargav Golla   Maxim Solodovnik What&amp;rsquo;s your name?</description>
+      <description>Content System stories from past Travel Assistance Recipients &amp;para; This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
+Maxim Solodovnik Piotr Zarzycki Gaurav Saini Sharan Foga Jeff Genender Pedro Giffuni Bhargav Golla Maxim Solodovnik &amp;para; What&amp;rsquo;s your name?</description>
     </item>
     
     <item>
@@ -59,8 +56,8 @@ What Apache project are you involved in?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/http.html</guid>
-      <description>HTTP stories from past Travel Assistance Recipients This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
- Andriy Redko Jeff Genender   Andriy Redko What&amp;rsquo;s your name?
+      <description>HTTP stories from past Travel Assistance Recipients &amp;para; This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
+Andriy Redko Jeff Genender Andriy Redko &amp;para; What&amp;rsquo;s your name?
 Andriy Redko
 What Apache project are you involved in?</description>
     </item>
@@ -71,9 +68,10 @@ What Apache project are you involved in?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/iot.html</guid>
-      <description>IoT (Internet of Things) stories from past Travel Assistance Recipients This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
- Piotr Zarzycki Rafael Weingärtner   Piotr Zarzycki What&amp;rsquo;s your name?
-Piotr Zarzycki</description>
+      <description>IoT (Internet of Things) stories from past Travel Assistance Recipients &amp;para; This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
+Piotr Zarzycki Rafael Weingärtner Piotr Zarzycki &amp;para; What&amp;rsquo;s your name?
+Piotr Zarzycki
+Which ApacheCon/Apache event did you attend?</description>
     </item>
     
     <item>
@@ -82,8 +80,8 @@ Piotr Zarzycki</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/nosql_databases.html</guid>
-      <description>NoSQL and Datbase stories from past Travel Assistance Recipients This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
- Yash Sharma Keren Ouaknine   Yash Sharma What&amp;rsquo;s your name?
+      <description>NoSQL and Datbase stories from past Travel Assistance Recipients &amp;para; This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
+Yash Sharma Keren Ouaknine Yash Sharma &amp;para; What&amp;rsquo;s your name?
 Yash Sharma
 What Apache project are you involved in?</description>
     </item>
@@ -94,8 +92,8 @@ What Apache project are you involved in?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/students.html</guid>
-      <description>Student and Academic stories from past Travel Assistance Recipients This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
- Bhargav Golla Rafael Weingärtner Keren Ouaknine Dammina Sahabandu Gabriel Beims Bräscher   Bhargav Golla What&amp;rsquo;s your name?</description>
+      <description>Student and Academic stories from past Travel Assistance Recipients &amp;para; This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
+Bhargav Golla Rafael Weingärtner Keren Ouaknine Dammina Sahabandu Gabriel Beims Bräscher Bhargav Golla &amp;para; What&amp;rsquo;s your name?</description>
     </item>
     
     <item>
@@ -104,8 +102,8 @@ What Apache project are you involved in?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/web_framework.html</guid>
-      <description>Web Framework stories from past Travel Assistance Recipients This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
- Piotr Zarzycki Andriy Redko Gaurav Saini Maxim Solodovnik Sharan Foga Bhargav Golla Jeff Genender   Piotr Zarzycki What&amp;rsquo;s your name?</description>
+      <description>Web Framework stories from past Travel Assistance Recipients &amp;para; This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
+Piotr Zarzycki Andriy Redko Gaurav Saini Maxim Solodovnik Sharan Foga Bhargav Golla Jeff Genender Piotr Zarzycki &amp;para; What&amp;rsquo;s your name?</description>
     </item>
     
     <item>
@@ -114,8 +112,8 @@ What Apache project are you involved in?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/women.html</guid>
-      <description>Women&amp;rsquo;s stories from past Travel Assistance Recipients This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
- Keren Ouaknine Sharan Foga   Keren Ouaknine What&amp;rsquo;s your name?
+      <description>Women&amp;rsquo;s stories from past Travel Assistance Recipients &amp;para; This is part of our series of stories from past ApacheCon and Apache Big Data attendees whom the Apache Travel Assistance committee helped be at the event. To learn more about TAC, visit the main TAC page. For more stories, see the TAC stories index page.
+Keren Ouaknine Sharan Foga Keren Ouaknine &amp;para; What&amp;rsquo;s your name?
 Keren Ouaknine
 Which ApacheCon/Apache event did you attend?</description>
     </item>
@@ -126,9 +124,9 @@ Which ApacheCon/Apache event did you attend?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tac.apache.org/stories/</guid>
-      <description>Stories of past Travel Assistance Recipients  By Project Area By Background   The Travel Assistance Committee helps those who would like to attend ApacheCon events, but are unable to do so for financial reasons.
+      <description>Stories of past Travel Assistance Recipients &amp;para; By Project Area By Background The Travel Assistance Committee helps those who would like to attend ApacheCon events, but are unable to do so for financial reasons.
 Over the years, TAC has helped many people, from all backgrounds and from all over the world, attend Apache events. This is a collection of some of their stories.
-By Project Area Interested in how people from projects in a certain area found TAC and ApacheCon?</description>
+By Project Area &amp;para; Interested in how people from projects in a certain area found TAC and ApacheCon?</description>
     </item>
     
   </channel>
