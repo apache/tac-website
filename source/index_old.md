@@ -54,7 +54,7 @@ Therefore, the ASF and its appointed agents will arrange and pay directly for tr
 
 ## How to apply for travel assistance  {#applying}
 
-Visit the  [online application ](/application) and , if you have not already done so,
+Visit the  [online application ](https://tac-apply.apache.org/) and , if you have not already done so,
 create an account by clicking the 'Register' link - or if you are an ASF Committer just login using
 your LDAP creds via oauth.
 Once logged in answer all questions as fully as possible.
@@ -85,7 +85,7 @@ projects and other folks you have been communicating with.
 **Also note** that participants we support must themselves obtain Travel Insurance (including Medical coverage for
 those traveling overseas).
 
-To apply, complete the [on line application](/application).
+To apply, complete the [on line application](https://tac-apply.apache.org/).
 
 ## Events for which support is available  {#events}
 
