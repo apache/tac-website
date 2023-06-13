@@ -3,4 +3,4 @@ RewriteCond %{HTTPS} !=on
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
 
 # Link to the webapp
-RewriteRule "^/application" https://tac.apache.org/ [R,L]
+RewriteRule "^application" https://tac-apply.apache.org/ [R,L]
