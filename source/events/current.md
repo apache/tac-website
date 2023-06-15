@@ -15,6 +15,9 @@ title: Travel Assistance Committee - TAC
 
 ### Currently supported events
 
+ * [Community Over Code Asia 2023](#community-over-code-asia-2023)
+ * [Community Over Code NA 2023](#community-over-code-na-2023)
+
 #### Community Over Code Asia 2023
 Applications are now being accepted to attend Community Over Code Asia 2023,
 which is taking place in Beijing, China between the 18th and 20th of August.
