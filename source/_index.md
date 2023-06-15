@@ -74,7 +74,10 @@ To apply, complete the [on line application](https://tac-apply.apache.org/).
 
 #### Events for which support is available  {#events}
 
-Berlin Buzzwords 2023 - see our [events page](/events/current.html) for more details.
+ * Community Over Code Asia 2023 (18-20 August 2023)
+ * Community Over Code NA 2023 (7-10 October 2023)
+
+See our [events page](/events/current.html) for more details.
 
 #### Stories from past TAC recipients  {#stories}
 
