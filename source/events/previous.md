@@ -15,27 +15,35 @@ title: Travel Assistance Committee - TAC
 <div class="row">
     <div class="col-md-auto">
         <h4>Previous events that TAC supported</h4>
-          <p>Fosdem 2020, Brussels, Belgium <br />
-             ApacheCon EU 2019, Berlin, Germany <br />
-             ApacheCon NA 2019, Las Vegas, Nevada <br />
-             ApacheCon NA 2018, Montreal, Canada <br />
-             ApacheCon NA 2017, Miami, Florida <br />
-             ApacheCon EU 2016, Seville, Spain <br />
-             ApacheCon NA 2016, Vancouver, Canada <br />
-             ApacheCon EU 2015, Budapest, Hungary <br />
-             ApacheCon NA 2015, Austin, Taxes <br />
-             ApacheCon EU 2014, Budapest, Hungary <br />
-             ApacheCon NA 2014, Denver Colorado <br />
-             ApacheCon NA 2013, Portland Oregon <br />
-             ApacheCon Europe 2012, Sinsheim, Germany <br />
-             ApacheCon NA 2011, Vancouver <br />
-             Apache Retreat Ireland 2011 <br />
-             ApacheCon NA 2010, Atlanta <br />
-             Apache Retreat Hursley 2010 <br />
-             Apache Retreat Ireland 2010 <br />
-             ApacheCon US 2009 Oakland <br />
-             ApacheCon EU 2009 Amsterdam <br />
-             ApacheCon US 2008 New Orleans</p>
+        <ul>
+<!--
+         <li>Community Over Code NA 2023, Halifax, Canada</li>
+         <li>Community Over Code Asia 2023, Beijing, China</li>
+  -->
+         <li>Berlin Buzzwords 2023, Berlin, Germany</li>
+         <li>ApacheCon NA 2022, New Orleans, Louisiana</li>
+         <li>Fosdem 2020, Brussels, Belgium</li>
+         <li>ApacheCon EU 2019, Berlin, Germany</li>
+         <li>ApacheCon NA 2019, Las Vegas, Nevada</li>
+         <li>ApacheCon NA 2018, Montreal, Canada</li>
+         <li>ApacheCon NA 2017, Miami, Florida</li>
+         <li>ApacheCon EU 2016, Seville, Spain</li>
+         <li>ApacheCon NA 2016, Vancouver, Canada</li>
+         <li>ApacheCon EU 2015, Budapest, Hungary</li>
+         <li>ApacheCon NA 2015, Austin, Texas</li>
+         <li>ApacheCon EU 2014, Budapest, Hungary</li>
+         <li>ApacheCon NA 2014, Denver Colorado</li>
+         <li>ApacheCon NA 2013, Portland Oregon</li>
+         <li>ApacheCon Europe 2012, Sinsheim, Germany</li>
+         <li>ApacheCon NA 2011, Vancouver</li>
+         <li>Apache Retreat Ireland 2011</li>
+         <li>ApacheCon NA 2010, Atlanta</li>
+         <li>Apache Retreat Hursley 2010</li>
+         <li>Apache Retreat Ireland 2010</li>
+         <li>ApacheCon US 2009 Oakland</li>
+         <li>ApacheCon EU 2009 Amsterdam</li>
+         <li>ApacheCon US 2008 New Orleans</li>
+        </ul>
     </div>
 </div>
 
