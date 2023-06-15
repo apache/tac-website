@@ -16,7 +16,8 @@ title: Travel Assistance Committee - TAC
 Applications are now being accepted to attend Community Over Code Asia 2023,
 which is taking place in Beijing, China between the 18th and 20th of August.
 
-Event details can be found [on the event website](https://www.bagevent.com/event/8432178).
+Event details can be found [on the Community-over-Code site](https://apachecon.com/acasia2023/)
+or on the [event ticketing website](https://www.bagevent.com/event/8432178).
 
 The ASF Travel Assistance Committee hopes to offer 5 or 6 Conference Passes 
 along with Hotel and Travel assistance as needed. Assistance is open to 

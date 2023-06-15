@@ -77,7 +77,8 @@ To apply, complete the [on line application](https://tac-apply.apache.org/).
  * Community Over Code Asia 2023 (18-20 August 2023)
  * Community Over Code NA 2023 (7-10 October 2023)
 
-See our [events page](/events/current.html) for more details.
+See our [events page](/events/current.html) for more details on these
+events. To apply, complete the [on-line application](https://tac-apply.apache.org/).
 
 #### Stories from past TAC recipients  {#stories}
 
