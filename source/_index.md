@@ -8,10 +8,10 @@ slug: index
 <div class="jumbotron">
 <a href="https://www.apache.org/events/current-event.html"><img src="https://www.apache.org/events/current-event-125x125.png" style="float: right;"/></a>
 
-The Travel Assistance committee was reformed in September 2008 with the goal of providing financial assistance to those who would otherwise be unable to attend various ApacheCon events.
+The Travel Assistance committee was reformed in September 2008 with the goal of providing financial assistance to those who would otherwise be unable to attend various ASF related events.
 
 Those who are thinking of applying for financial assistance should know that the Committee has limited finances and that, as a consequence, only a few places are available for each Apache event.
-Applicants should have valid reasons for attending ApacheCon events that are of benefit to both the applicant and the ASF, and to open source as a whole.
+Applicants should have valid reasons for attending ASF related events that are of benefit to both the applicant and the ASF, and to open source as a whole.
 
 **Note, read this entire page BEFORE applying for assistance.**
 
@@ -52,10 +52,9 @@ Note that you do not need to answer all questions in the same session: you can k
 
 Ensure that you specify which event you are applying for.
 We generally give preference to those who apply to attend an event nearest their home location.
-In other words, those in Europe would fair better applying to attend an ApacheCon EU event, and those in Asia, an Asia event, when they next come round.
+In other words, those in Europe would fair better applying to attend an ASF EU event, and those in Asia, an ASF Asia event, when they next come round.
 
-However, we will consider carefully compelling reasons you present to support going to an event further away than your nearest ApacheCon location. (This year for example will be more forgiving due to no in person events for over 2 years)
-
+However, we will consider carefully compelling reasons you present to support going to an event further away than your nearest ASF event location. 
 We will only notify those applicants who are successful.
 If you have not heard from us within one week of the application closing date, you should assume that you did not qualify on this occasion.
 However, you are welcome to email tac-apply@apache.org for confirmation if you wish.
@@ -87,7 +86,7 @@ Wondering how it might apply for someone like yourself?
 Wondering if it might be relevant?
 Curious to know how others found the experience?
 
-We've put together stories from past TAC recipients of their experiences with TAC and with ApacheCon itself.
+We've put together stories from past TAC recipients of their experiences with TAC and with ApacheCon/CommunityOverCode.
 You can view these on the [TAC Stories pages](/stories/).
 We've grouped them by project area, applicant background and the like.
 [Take a look around](/stories/)!
