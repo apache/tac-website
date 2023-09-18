@@ -16,10 +16,8 @@ title: Travel Assistance Committee - TAC
     <div class="col-md-auto">
         <h4>Previous events that TAC supported</h4>
         <ul>
-<!--
          <li>Community Over Code NA 2023, Halifax, Canada</li>
          <li>Community Over Code Asia 2023, Beijing, China</li>
-  -->
          <li>Berlin Buzzwords 2023, Berlin, Germany</li>
          <li>ApacheCon NA 2022, New Orleans, Louisiana</li>
          <li>Fosdem 2020, Brussels, Belgium</li>
