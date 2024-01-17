@@ -73,8 +73,9 @@ To apply, complete the [on line application](https://tac-apply.apache.org/).
 
 #### Events for which support is available  {#events}
 
- * Community Over Code Asia 2023 (18-20 August 2023)
- * Community Over Code NA 2023 (7-10 October 2023)
+ * Community Over Code EU 2024 (June 3-5 2024 in Bratislava, Slovakia)
+ * Community Over Code Asia 2024 (TBA)
+ * Community Over Code NA 2024 (7-10 October 2024 in Denver, Colorado)
 
 See our [events page](/events/current.html) for more details on these
 events. To apply, complete the [on-line application](https://tac-apply.apache.org/).
