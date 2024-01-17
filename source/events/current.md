@@ -28,7 +28,7 @@ back soon.
 Applications are not yet open, but will be in the coming weeks, please 
 check back often.
 
-#### Community Over Code NA 2023
+#### Community Over Code NA 2024
 Applications are not yet open, but will be in the coming weeks, please 
 check back often.
 
