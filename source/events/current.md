@@ -21,8 +21,9 @@ title: Travel Assistance Committee - TAC
 
 
 #### Community Over Code EU 2024
-Applications are not yet open, but will be in the next week or two, check
-back soon.
+Applications are now open! Please head on over to our <a href="https://tac-apply.apache.org/">app</a>
+and apply now. Advice for those that will need a Visa - apply for that too now 
+in case on delays getting an appointment.
 
 #### Community Over Code Asia 2024
 Applications are not yet open, but will be in the coming weeks, please 
