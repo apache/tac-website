@@ -52,7 +52,7 @@ Note that you do not need to answer all questions in the same session: you can k
 
 Ensure that you specify which event you are applying for.
 We generally give preference to those who apply to attend an event nearest their home location.
-In other words, those in Europe would fair better applying to attend an ASF EU event, and those in Asia, an ASF Asia event, when they next come round.
+In other words, those in Europe would fare better applying to attend an ASF EU event, and those in Asia, an ASF Asia event, when they next come round.
 
 However, we will consider carefully compelling reasons you present to support going to an event further away than your nearest ASF event location. 
 We will only notify those applicants who are successful.
