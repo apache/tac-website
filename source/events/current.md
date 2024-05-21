@@ -24,14 +24,11 @@ title: Travel Assistance Committee - TAC
 Applications are closed for EU, thanks to all who submitted.
 
 #### Community Over Code Asia 2024
-Applications are now open! Please head on over to our <a href="https://tac-apply.apache.org/">app</a>
-and apply now. Advice for those that will need a Visa - apply for that too now 
-in case on delays getting an appointment.
-
+Applications are closed for Asia, thanks to all who submitted.
 #### Community Over Code NA 2024
 Applications are now open! Please head on over to our <a href="https://tac-apply.apache.org/">app</a>
 and apply now. Advice for those that will need a Visa - apply for that too now 
-in case on delays getting an appointment.
+in case on delays getting an appointment. Application deadline extended until Friday 7th June!
 
 </div>
 
