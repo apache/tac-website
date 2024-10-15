@@ -73,12 +73,10 @@ To apply, complete the [on line application](https://tac-apply.apache.org/).
 
 #### Events for which support is available  {#events}
 
- * Community Over Code EU 2024 (June 3-5 2024 in Bratislava, Slovakia)
- * Community Over Code Asia 2024 (July 26-28 2024 in Hangzhou, China)
- * Community Over Code NA 2024 (October 7-10 2024 in Denver, Colorado)
+No events currrently, please check back again soon.
 
-See our [events page](/events/current.html) for more details on these
-events. To apply, complete the [on-line application](https://tac-apply.apache.org/).
+See our [events page](/events/current.html) for more details. 
+To apply for a supported event, complete the [on-line application](https://tac-apply.apache.org/).
 
 #### Stories from past TAC recipients  {#stories}
 
@@ -101,5 +99,8 @@ Please see our [official committee listing](http://home.apache.org/phonebook.htm
 The only constraint we have due to the amount of private (PII) information that we handle, all TAC Committee Volunteers 
 and Committee Members must also be ASF Members. As an ASF Member you are free to volunteer to help TAC by sending an 
 email to private@tac.apache.org. The TAC Chair or other Committee member will then grant access to TAC only resources.
+
+The Committee has a policy to clean up the Committee listing every once in a while to current volunteers. Or of course
+you are also free to ask to be removed from the Committee at any time should you no longer have time to volunteer.
 
 
