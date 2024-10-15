@@ -96,4 +96,10 @@ We've grouped them by project area, applicant background and the like.
 
 Please see our [official committee listing](http://home.apache.org/phonebook.html?pmc=tac).
 
+#### How to join TAC?
+
+The only constraint we have due to the amount of private (PII) information that we handle, all TAC Committee Volunteers 
+and Committee Members must also be ASF Members. As an ASF Member you are free to volunteer to help TAC by sending an 
+email to private@tac.apache.org. The TAC Chair or other Committee member will then grant access to TAC only resources.
+
 
