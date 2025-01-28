@@ -43,6 +43,21 @@ At this time, the Committee is unable to provide any funds for general living ex
 The Committee, and the ASF itself, do not have the means to distribute funds for air fares, etc, to successful applicants, who will undoubtedly be located worldwide.
 Therefore, the ASF and its appointed agents will arrange and pay directly for travel and accommodation for successful applicants.
 
+#### Before you apply, we have some expectations
+
+In return for financial assistance, we do ask that you perform some duties while at the event, including but not limited to :-
+
+1. Being available before the event starts to help with Setup of Signage, Banners, Registration Desk and more.
+2. Staffing the registration booth - TAC recipients will take it in turns to ensure full coverage throughout the event.
+3. opening/closing talk sessions for other Speakers - This could include introducing speakers, counting the room, passing the microphone.
+4. Being available after the event finishes to assist with Teardown - packing away signage, reg desk and more.
+
+We therefore aim to get people in at least the day before the event and to leave the day after the event completes.
+But do not worry! You will still have plenty of time to attend talks that interest you, get to see the sights of the hosting city, and meet people from your
+projects and other folks you have been communicating with.
+
+**Also note** that participants we support must themselves obtain Travel Insurance (including Medical coverage for those traveling overseas).
+
 #### How to apply for travel assistance  {#applying}
 
 Visit the  [online application ](https://tac-apply.apache.org/) and , if you have not already done so,
@@ -59,15 +74,6 @@ We will only notify those applicants who are successful.
 If you have not heard from us within one week of the application closing date, you should assume that you did not qualify on this occasion.
 However, you are welcome to email tac-apply@apache.org for confirmation if you wish.
 We do not provide explanations why a given application was not successful, but you may assume that other applicants had a greater need on this occasion.
-
-**Note** that, in return for financial assistance, we do ask that you perform some
-duties while at the event, such as staffing the registration booth and helping 
-spread the Apache Way message; and opening/closing talk sessions for other Speakers.
-But do not worry: you will still have plenty of time to attend talks that
-interest you, get to see the sights of the hosting city, and meet people from your
-projects and other folks you have been communicating with.
-
-**Also note** that participants we support must themselves obtain Travel Insurance (including Medical coverage for those traveling overseas).
 
 To apply, complete the [on line application](https://tac-apply.apache.org/).
 
