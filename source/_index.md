@@ -79,7 +79,7 @@ To apply, complete the [on line application](https://tac-apply.apache.org/).
 
 #### Events for which support is available  {#events}
 
-No events currrently, please check back again soon.
+Community Over Code Asia - Beijing, China - July 25th to July 27th 2025
 
 See our [events page](/events/current.html) for more details. 
 To apply for a supported event, complete the [on-line application](https://tac-apply.apache.org/).
