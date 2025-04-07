@@ -79,7 +79,7 @@ To apply, complete the [on line application](https://tac-apply.apache.org/).
 
 #### Events for which support is available  {#events}
 
-Community Over Code Asia - Beijing, China - July 25th to July 27th 2025
+Community Over Code Asia - Beijing, China - July 25th to July 27th 2025  
 Community Over Code NA - Minneapolis, USA - September 11th to September 14th 2025
 
 See our [events page](/events/current.html) for more details. 
@@ -87,14 +87,14 @@ To apply for a supported event, complete the [on-line application](https://tac-a
 
 #### Stories from past TAC recipients  {#stories}
 
-Are you thinking of applying for TAC funding, but wondering how it works?
-Wondering how it might apply for someone like yourself?
-Wondering if it might be relevant?
+Are you thinking of applying for TAC funding, but wondering how it works?  
+Wondering how it might apply for someone like yourself?  
+Wondering if it might be relevant?  
 Curious to know how others found the experience?
 
-We've put together stories from past TAC recipients of their experiences with TAC and with ApacheCon/CommunityOverCode.
-You can view these on the [TAC Stories pages](/stories/).
-We've grouped them by project area, applicant background and the like.
+We've put together stories from past TAC recipients of their experiences with TAC and with ApacheCon/CommunityOverCode.  
+You can view these on the [TAC Stories pages](/stories/).  
+We've grouped them by project area, applicant background and the like.  
 [Take a look around](/stories/)!
 
 #### Who are TAC?
