@@ -15,9 +15,18 @@ title: Travel Assistance Committee - TAC
 
 ### Currently supported events
 
-None.
+* [Community Over Code Glasgow 2026](#community-over-code-glasgow-2026)
 
-There are no events that have applications open at the moment.
+
+#### Community Over Code Glasgow 2026
+Applications are open now! And will close on the 3rd June 2026.
+[Apply using this web form](https://tac-apply.apache.org) as early in the process as you are able - even if you are a potential speaker
+and do not know if you will be accepted, we advise you to apply anyway, you can always
+cancel later on if need be. Also note that being a Speaker does not imply success but is
+one of many criteria.
+
+If you require a Visa to visit the UK - You should apply early, please do not wait until you know if you have been accepted
+for TAC assistance or not, as for some Countries, the Visa application process may take longer than normal.
 
 </div>
 
