@@ -16,6 +16,8 @@ title: Travel Assistance Committee - TAC
     <div class="col-md-auto">
         <h4>Previous events that TAC supported</h4>
         <ul>
+         <li>Community Over Code NA 2025, Minneapolis, Minnesota, USA</li>
+         <li>Community Over Code Asia 2025, Beijing, China</li>
          <li>Community Over Code EU 2024, Bratislava, Slovakia</li>
          <li>Community Over Code Asia 2024, Hangzhou, China</li>
          <li>Community Over Code NA 2024, Denver, Colorado, USA</li>
