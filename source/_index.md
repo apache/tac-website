@@ -80,6 +80,7 @@ To apply, complete the [on line application](https://tac-apply.apache.org/).
 #### Events for which support is available  {#events}
 
 Applications are now open for Community Over Code being held in Glasgow between the 11th and the 14th October 2026
+Applications are also open for Community Over Code being held in Beijing between the 7th and 9th of August 2026
 
 See our [events page](/events/current.html) for more details. 
 To apply for a supported event, complete the [on-line application](https://tac-apply.apache.org/).
